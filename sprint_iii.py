@@ -1,3 +1,6 @@
+#INTEGRANTES: 
+#FABBRONI PABLO TOMÁS
+#MAGALLANES MARTÍN
 
 #CARPETA DRIVE CON ARCHIVO DEL SPRINT EN FORMATO .py y .ipynb
 #URL: https://drive.google.com/drive/folders/1hj7ZWjQY7znieqNT-6w11vm9sqKwUE2O?usp=sharing
